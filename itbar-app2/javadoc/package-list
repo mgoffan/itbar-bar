@@ -1,0 +1,14 @@
+com.itbar.backend
+com.itbar.backend.middleware
+com.itbar.backend.middleware.controllers
+com.itbar.backend.middleware.exceptions
+com.itbar.backend.middleware.translators
+com.itbar.backend.services
+com.itbar.backend.services.callbacks
+com.itbar.backend.services.views
+com.itbar.backend.util
+com.itbar.backend.util.fields
+com.itbar.backend.util.types
+com.itbar.frontend.Models
+com.itbar.frontend.activities
+com.itbar.frontend.appmanager
